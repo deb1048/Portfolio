@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+#MyCarousel{
+    background-color: green;
+}
+.carousel-inner{
+    margin: 15px;
+}
